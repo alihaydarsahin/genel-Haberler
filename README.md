@@ -1,0 +1,2 @@
+# genel-Haberler
+Veri-Analizi
